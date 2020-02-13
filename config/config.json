@@ -1,0 +1,9 @@
+{
+  "development": {
+    "user": "root",
+    "password": "",
+    "database": "db_a2c2cd_tennis",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
